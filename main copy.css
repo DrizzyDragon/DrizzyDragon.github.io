@@ -7,19 +7,17 @@ body{
     margin-left: auto;
     margin-right: auto;
     background: linear-gradient(rgb(0,217,255), rgb(0, 81, 96));
-    font-family: test;
     color: rgb(255, 255, 255);
 
-}
-
-mark{
-    background-color: rgb(0, 0, 0);
-    color: white
 }
 
 @font-face {
     font-family: test;
     src: url(CreakyFrank.ttf);
+}
+
+#title{
+    font-family: test;
 }
 
 header{
